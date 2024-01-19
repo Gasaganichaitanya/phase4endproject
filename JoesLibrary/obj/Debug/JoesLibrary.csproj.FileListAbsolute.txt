@@ -1,0 +1,6 @@
+D:\mphasis\Phase4PracticeProjects\phaseendproject\endproject\Phase4endProject\JoesLibrary\bin\Debug\JoesLibrary.dll
+D:\mphasis\Phase4PracticeProjects\phaseendproject\endproject\Phase4endProject\JoesLibrary\bin\Debug\JoesLibrary.pdb
+D:\mphasis\Phase4PracticeProjects\phaseendproject\endproject\Phase4endProject\JoesLibrary\obj\Debug\JoesLibrary.csproj.AssemblyReference.cache
+D:\mphasis\Phase4PracticeProjects\phaseendproject\endproject\Phase4endProject\JoesLibrary\obj\Debug\JoesLibrary.csproj.CoreCompileInputs.cache
+D:\mphasis\Phase4PracticeProjects\phaseendproject\endproject\Phase4endProject\JoesLibrary\obj\Debug\JoesLibrary.dll
+D:\mphasis\Phase4PracticeProjects\phaseendproject\endproject\Phase4endProject\JoesLibrary\obj\Debug\JoesLibrary.pdb

@@ -1,0 +1,17 @@
+D:\mphasis\Phase4PracticeProjects\phaseendproject\endproject\Phase4endProject\UnitTestjoepizza\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\mphasis\Phase4PracticeProjects\phaseendproject\endproject\Phase4endProject\UnitTestjoepizza\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\mphasis\Phase4PracticeProjects\phaseendproject\endproject\Phase4endProject\UnitTestjoepizza\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\mphasis\Phase4PracticeProjects\phaseendproject\endproject\Phase4endProject\UnitTestjoepizza\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\mphasis\Phase4PracticeProjects\phaseendproject\endproject\Phase4endProject\UnitTestjoepizza\bin\Debug\UnitTestjoepizza.dll
+D:\mphasis\Phase4PracticeProjects\phaseendproject\endproject\Phase4endProject\UnitTestjoepizza\bin\Debug\UnitTestjoepizza.pdb
+D:\mphasis\Phase4PracticeProjects\phaseendproject\endproject\Phase4endProject\UnitTestjoepizza\bin\Debug\JoesLibrary.dll
+D:\mphasis\Phase4PracticeProjects\phaseendproject\endproject\Phase4endProject\UnitTestjoepizza\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\mphasis\Phase4PracticeProjects\phaseendproject\endproject\Phase4endProject\UnitTestjoepizza\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\mphasis\Phase4PracticeProjects\phaseendproject\endproject\Phase4endProject\UnitTestjoepizza\bin\Debug\JoesLibrary.pdb
+D:\mphasis\Phase4PracticeProjects\phaseendproject\endproject\Phase4endProject\UnitTestjoepizza\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\mphasis\Phase4PracticeProjects\phaseendproject\endproject\Phase4endProject\UnitTestjoepizza\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\mphasis\Phase4PracticeProjects\phaseendproject\endproject\Phase4endProject\UnitTestjoepizza\obj\Debug\UnitTestjoepizza.csproj.AssemblyReference.cache
+D:\mphasis\Phase4PracticeProjects\phaseendproject\endproject\Phase4endProject\UnitTestjoepizza\obj\Debug\UnitTestjoepizza.csproj.CoreCompileInputs.cache
+D:\mphasis\Phase4PracticeProjects\phaseendproject\endproject\Phase4endProject\UnitTestjoepizza\obj\Debug\UnitTestjoepizza.csproj.CopyComplete
+D:\mphasis\Phase4PracticeProjects\phaseendproject\endproject\Phase4endProject\UnitTestjoepizza\obj\Debug\UnitTestjoepizza.dll
+D:\mphasis\Phase4PracticeProjects\phaseendproject\endproject\Phase4endProject\UnitTestjoepizza\obj\Debug\UnitTestjoepizza.pdb
